@@ -2,4 +2,4 @@
 This is my telegram bot project with the python telebot library 👽
 
 
-i just wanted to upload it 🫀😶‍🌫️
+I just wanted to upload it 🫀😶‍🌫️
